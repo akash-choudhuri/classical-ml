@@ -1,2 +1,2 @@
 # Projects
-Interview related Projects
+Classical ML Projects
